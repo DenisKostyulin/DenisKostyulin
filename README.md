@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DenisKostyulin
 - 👀 I’m interested in web-dev, game-dev, python, C++, C#
-- 🌱 I’m currently learning python
 - 📫 How to reach me -> email:kostiulin.d@yandex.ru
 -                       vk:https://vk.com/newycus
 -                       phone:+7(950)853-01-21
