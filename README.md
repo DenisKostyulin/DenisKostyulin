@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisKostyulin
 - 👀 I’m interested in web-dev, game-dev, python, C++, C#
 - 📫 How to reach me -> email:kostiulin.d@yandex.ru
--                       vk:https://vk.com/newycus
+-                       vk:https://vk.com/vvagen
 -                       phone:+7(950)853-01-21
 
 <!---
